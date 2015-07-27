@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+	<widget xmlns		= "http://www.w3.org/ns/widgets"
+		xmlns:gap	= "http://phonegap.com/ns/1.0"
+		id		= "com.weidnerm.paceyourself"
+		versionCode	= "1"
+		version		= "0.0.1" >
+	
+	<name>Pace Yourself</name>
+
+	<description>
+		A simple app for timing your drinking habits. Pace yourself before you race yourself!
+	</description>
+
+	<author>
+		The W
+	</author>
+
+	</widget>
+
+	<gap:plugin name="com.phonegap.plugins.pushplugin" version="2.4.0" />
